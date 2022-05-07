@@ -1,4 +1,14 @@
 .ipynb_checkpoints
 .DS_Store
 datasets
-examples  
+examples
+#
+# Default ignored files (Pycharm ide)
+/venv/
+/shelf/
+/workspace.xml
+#
+#    
+.idea    
+*~
+# *~ are for emacs files
